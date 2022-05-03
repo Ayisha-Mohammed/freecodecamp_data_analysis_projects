@@ -1,10 +1,10 @@
-<<<<<<< HEAD
+ HEAD
+ HEAD
 # FreeCodeCamp Data Analysis Projects
 
 This repository contains solutions to the **Data Analysis with Python** certification projects from [freeCodeCamp](https://www.freecodecamp.org/).
 
 Each folder contains one project with the necessary code, data, and test files. These projects were completed using **Python**, **Pandas**, and **NumPy**.
-=======
 ### Assignment
 
 In this project, you will visualize and make calculations from medical examination data using matplotlib, seaborn, and pandas. The dataset values were collected during medical examinations.
@@ -61,4 +61,9 @@ We imported the tests from `test_module.py` to `main.py` for your convenience. T
 ### Submitting
 
 Copy your project's URL and submit it to freeCodeCamp.
->>>>>>> 9fe035a (init)
+ 9fe035a (init)
+
+# Medical Data Visualizer
+
+This is the boilerplate for the Medical Data Visualizer project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer
+ 45ca1f3 (chore: cleanup readme (#17))
