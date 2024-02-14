@@ -1,1 +1,5 @@
+ 
 numpy==1.18.5
+seaborn==0.9.0
+pandas==1.5.3
+ 
