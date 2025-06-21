@@ -28,8 +28,13 @@ this repo contains 5 projects to complete the certification from [freeCodeCamp](
 
 
 
-## 📌 How to Run
+##  How to Run
 1. Clone the repository:
    ```bash
    git clone https://github.com/Ayisha-Mohammed/freecodecamp_data_analysis_projects.git
    cd freecodecamp_data_analysis_projects
+
+## to install dependencies
+  ```bash
+   pip install -r requirements.txt
+
